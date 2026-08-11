@@ -1,0 +1,40 @@
+Job Title: Junior Java Developer
+
+We are looking for an entry-level Java Developer to join our software development team.
+
+Responsibilities:
+- Develop and maintain backend applications using Java.
+- Write clean, maintainable and efficient Java code.
+- Work with relational databases and SQL.
+- Develop database operations using JDBC.
+- Build and consume REST APIs.
+- Debug and troubleshoot application issues.
+- Perform unit testing and application testing.
+- Collaborate with developers using Git and GitHub.
+- Participate in the software development lifecycle.
+
+Required Skills:
+- Core Java
+- Object-Oriented Programming
+- Java Collections
+- Exception Handling
+- JDBC
+- SQL
+- MySQL
+- REST APIs
+- Data Structures and Algorithms
+- Git and GitHub
+- Problem-solving skills
+
+Preferred Skills:
+- Spring MVC or Spring Boot
+- HTML, CSS, JavaScript
+- Understanding of SDLC
+- Backend development experience
+
+Education:
+- Bachelor's or Master's degree in Computer Science, Computer Applications, Information Technology, or a related field.
+
+Experience:
+- 0–2 years of software development experience.
+- Freshers with relevant projects or internships are welcome.

@@ -1,0 +1,37 @@
+[
+    {
+        "rank": 1,
+        "candidate": "Chethan_Resume main",
+        "final_score": 71.62,
+        "skill_score": 73.68421052631578,
+        "similarity_score": 30.738319235220697,
+        "experience_score": 100,
+        "education_score": 100,
+        "ai_score": 60,
+        "matched_skills": [
+            "c",
+            "collections",
+            "css",
+            "git",
+            "html",
+            "java",
+            "javascript",
+            "jdbc",
+            "mysql",
+            "rest api",
+            "rest apis",
+            "spring",
+            "spring mvc",
+            "sql"
+        ],
+        "missing_skills": [
+            "algorithms",
+            "data structures",
+            "exception handling",
+            "object oriented programming",
+            "spring boot"
+        ],
+        "recommendation": "Chethan G has a strong foundation in Java and backend development. However, he lacks experience in some of the required skills. He would benefit from gaining experience in REST APIs, JavaScript, and other areas mentioned in the skill gaps.",
+        "summary": "Chethan G is a motivated Java Developer with strong knowledge in Core Java, OOP, JDBC, and Spring MVC. He has hands-on experience in backend development using Java technologies like Spring MVC and JDBC."
+    }
+]
